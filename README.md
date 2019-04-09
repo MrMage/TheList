@@ -100,6 +100,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 
 * [Perfect Networking Library](https://github.com/PerfectlySoft/Perfect-Net) - Core asynchronous networking package used in Perfect. Includes support for TCP, SSL, UNIX socket files and IO event handling.
 * [Perfect CURL](https://github.com/PerfectlySoft/Perfect-CURL) - cURL support for Perfect.
+* [SwiftGRPC](https://github.com/grpc/grpc-swift) - [gRPC](https://grpc.io) for Swift.
 * [Tris Socket](https://github.com/tris-foundation/socket)
 * [Vapor Socks](https://github.com/vapor/socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [Zewo HTTP Client](https://github.com/Zewo/HTTPClient)
